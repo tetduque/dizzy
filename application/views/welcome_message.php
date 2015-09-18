@@ -354,22 +354,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
-                        <img src="asset/img/logos/vetsnejp3.gif" class="img-responsive img-centered" alt="">
+                        <img src="asset/img/logos/link1.jpg" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
-                        <img src="asset/img/logos/vetsnejp3.gif" class="img-responsive img-centered" alt="">
+                        <img src="asset/img/logos/link1.jpg" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
-                        <img src="asset/img/logos/vetsnejp3.gif" class="img-responsive img-centered" alt="">
+                        <img src="asset/img/logos/link1.jpg" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
-                        <img src="asset/img/logos/vetsnejp3.gif" class="img-responsive img-centered" alt="">
+                        <img src="asset/img/logos/link1.jpg" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
             </div>
